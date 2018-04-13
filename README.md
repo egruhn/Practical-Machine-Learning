@@ -12,5 +12,4 @@ The goal of ths project is to predict the manner in which they did the exercise.
 Included are the following Directories / Files:
 Practical Machine Learning.Rmd
 Practical Machine Learnign.HTML
-Practical Machine Learning Cache
 Practical Machine Learning Files
